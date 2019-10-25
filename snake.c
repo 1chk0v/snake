@@ -1,4 +1,4 @@
-/* snake-0.3 Oct 24 2019  -- 13 years later ;-), changed ACS_BULLET to ACS_CKBOARD
+/* snake-0.3 Oct 24 2019  -- 13 years later ;-), changed ACS_BULLET to ACS_CKBOARD */
 /* snake-0.2 (03/01/2006) -- added borders, colors and score system */
 /* snake-0.1 (02/01/2006) -- initial version                        */
 
